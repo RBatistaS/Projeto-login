@@ -37,6 +37,10 @@ main {
     overflow: hidden;
     box-shadow: 0px 0px 30px black;
 
+    /* ANIMAÇÃO */
+    transition: width 0.3S, height 0.3s;
+    transition-timing-function: ease;
+
 }
 
 #imagem {
